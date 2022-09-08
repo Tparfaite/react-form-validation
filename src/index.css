@@ -9,4 +9,16 @@
   width: 30%;
   background-color: aqua;
   border-radius: 6px;
+  padding-bottom: 10px;
+}
+.form2 {
+  background-color: rgb(24, 31, 12);
+  color: white;
+  height: auto;
+  width: 700px;
+  padding: 20px;
+  margin-left: 20px;
+}
+.form2 p{
+  color: red;
 }
